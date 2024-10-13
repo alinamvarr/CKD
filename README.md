@@ -12,7 +12,7 @@ Please download the dataset from the Kaggle link above and place it in the appro
 
 ## Analysis Overview
 
-We use **Elastic Principal Graphs** to analyze the CKD dataset and focus on creating and interpreting **pseudotime trajectories** and **scaffolds**. The main aim of the analysis is to explore disease progression insights using these methods.
+We use **Elastic Principal Graphs** to analyze the CKD dataset and focus on creating and interpreting **pseudotime trajectories** . The main aim of the analysis is to explore disease progression insights using these methods.
 
 ## Tools and Libraries
 
