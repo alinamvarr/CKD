@@ -64,4 +64,4 @@ The analysis is performed using the **ClinTrajan** package. You can find more in
 
    The hazard graph below shows the progression of **Chronic Kidney Disease (CKD)** along different pseudotime trajectories. Each trajectory is represented by a different color, and the y-axis reflects the hazard value.
 
-![Hazard Graph](./images/haz.png)
+![Hazard Graph](./image/haz.png)
