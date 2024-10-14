@@ -43,13 +43,13 @@ The analysis is performed using the **ClinTrajan** package. You can find more in
 
 4. **Associate Trajectories with Variables by Regression**:
 
-   The graph below illustrates the association between **Heavy Metals Exposure** and **Pseudotime** for Trajectory 0--61. The red dots represent the actual data points for heavy metals exposure along the pseudotime progression. The green line shows the probability curve based on the data, while the blue line represents a smoothed trend using a sliding average. Both curves indicate a significant increase in heavy metals exposure at later stages of the pseudotime trajectory, starting around pseudotime 6. The \( R^2 \) value of 0.36 suggests a moderate fit between the data and the model, highlighting the relationship between exposure levels and disease progression along this trajectory.
+   The graph below illustrates the association between **Heavy Metals Exposure** and **Pseudotime** for Trajectory 0--61. The red dots represent the actual data points for heavy metals exposure along the pseudotime progression. The green line shows the probability curve based on the data, while the blue line represents a smoothed trend using a sliding average. 
 
 ![Heavy Metals Exposure vs Pseudotime](./image/Tra-P.png)
 
 5. **Draw Pseudotime Dependencies of Variables Significantly Associated with Trajectories**:
 
-   The following graph shows the pseudotime dependencies of four clinical variables — **Protein in Urine**, **Serum Electrolytes/Phosphorus**, **Hemoglobin Levels**, and **Cholesterol/LDL** — along Trajectory 0--52. Each line represents the trend of a variable across pseudotime, helping to visualize how these markers change as the disease progresses. The graph highlights that **Serum Electrolytes/Phosphorus** (cyan line) and **Hemoglobin Levels** (magenta line) exhibit significant changes at different points along the trajectory, while **Cholesterol/LDL** (red line) shows an upward trend later in the pseudotime progression. These dependencies indicate which variables are most relevant at various stages of disease progression for patients following this trajectory.
+   The following graph shows the pseudotime dependencies of four clinical variables — **Protein in Urine**, **Serum Electrolytes/Phosphorus**, **Hemoglobin Levels**, and **Cholesterol/LDL** — along Trajectory 0--52. Each line represents the trend of a variable across pseudotime, helping to visualize how these markers change as the disease progresses. 
 
 ![Pseudotime Dependencies](./image/Trajectory:0--52.png)
 
