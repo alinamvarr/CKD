@@ -13,7 +13,7 @@ Please download the dataset from the Kaggle link above and place it in the appro
 ## Analysis Overview
 
 I use **Elastic Principal Graphs** to analyze the CKD dataset and focus on creating and interpreting **pseudotime trajectories** . The main aim of the analysis is to explore disease progression insights using these methods.
-I provide a **Jupyter notebook** ![Variable Associations](./CKD-A.ipynb)( that includes all the necessary code for data analysis, including pseudotime trajectory generation, variable associations, and hazard modeling. The notebook is structured to guide you through each step of the analysis process, from data preprocessing to visualization of the results.
+I provide a **Jupyter notebook** [CKD-A](./CKD-A.ipynb)( that includes all the necessary code for data analysis, including pseudotime trajectory generation, variable associations, and hazard modeling. The notebook is structured to guide you through each step of the analysis process, from data preprocessing to visualization of the results.
 
 You can download and run the notebook to replicate the analysis or adapt it to your own data.
 ## Tools and Libraries
