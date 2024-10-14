@@ -8,7 +8,7 @@ The CKD dataset used in this analysis is publicly available on Kaggle:
 
 - [Chronic Kidney Disease Dataset](https://www.kaggle.com/datasets/rabieelkharoua/chronic-kidney-disease-dataset-analysis/)
 
-Please download the dataset from the Kaggle link above and place it in the appropriate directory (you can specify the folder name here).
+Please download the dataset from the Kaggle link above and place it in the appropriate directory.
 
 ## Analysis Overview
 
