@@ -53,7 +53,7 @@ The analysis is performed using the **ClinTrajan** package. You can find more in
 
    The following graph shows the pseudotime dependencies of four clinical variables — **Protein in Urine**, **Serum Electrolytes/Phosphorus**, **Hemoglobin Levels**, and **Cholesterol/LDL** — along Trajectory 0--52. Each line represents the trend of a variable across pseudotime, helping to visualize how these markers change as the disease progresses. 
 
-![Pseudotime Dependencies](./image/Trajectory:0--52.png)
+![Pseudotime Dependencies](./image/Trajectory:8--57.png)
 
 
 6. **Visualize Associations Between Variables and Trajectories**:
@@ -66,4 +66,4 @@ The analysis is performed using the **ClinTrajan** package. You can find more in
 
    The hazard graph below shows the progression of **Chronic Kidney Disease (CKD)** along different pseudotime trajectories. Each trajectory is represented by a different color, and the y-axis reflects the hazard value.
 
-![Hazard Graph](./image/haz.png)
+![Hazard Graph](./image/hazard.png)
